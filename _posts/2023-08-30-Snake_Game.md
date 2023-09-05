@@ -4,11 +4,12 @@ comments: false
 layout: post
 title: Snake Game
 description: Snake Game that I coded
-type: plans
+type: tangibles
 courses: { compsci: {week: 2} }
 ---
 
 <style>
+
 
     body{
     }

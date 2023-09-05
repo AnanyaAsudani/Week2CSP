@@ -317,3 +317,33 @@ Concluded that the issue was related to the theme, not the code.
 </body>
 
 </html>
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Parkinson's Disease Marker Identification</title>
+</head>
+<body>
+    <h1>Parkinson's Disease Marker Identification</h1>
+    <div class="form-container">
+        <label for="tremor">Tremor Severity:</label>
+        <input type="number" id="tremor" min="0" max="10">
+        
+        <label for="rigidity">Rigidity Severity:</label>
+        <input type="number" id="rigidity" min="0" max="10">
+        
+        <label for="bradykinesia">Bradykinesia Severity:</label>
+        <input type="number" id="bradykinesia" min="0" max="10">
+        
+        <button id="analyze-btn">Analyze</button>
+    </div>
+    <div id="result" class="hidden">
+        <p>The analysis result will appear here.</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
