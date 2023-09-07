@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Snake Game
 description: Snake Game that I coded
-type: tangibles
+type: hacks
 courses: { compsci: {week: 2} }
 ---
 

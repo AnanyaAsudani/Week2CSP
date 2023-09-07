@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Calculator
 description: Just a basic calculator
-type: tangibles
+type: hacks
 courses: { compsci: {week: 2} }
 ---
 
