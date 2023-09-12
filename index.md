@@ -582,4 +582,14 @@ Concluded that the issue was related to the theme, not the code.
 </body>
 </html>
 
-
+</body>
+</html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>White Cursive Font on Purple Background</title>
+    <style>
+        body {
+            background-color: #dfecf0; /* Set background color to purple */
+        }
+    </style>
