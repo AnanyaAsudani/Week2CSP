@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Basic Database
 description: This is a simple database that has simple descriptions of diseases and links to help people learn more 

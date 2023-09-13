@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Tic Tac Toe
 description: My version of Tic Tac Toe

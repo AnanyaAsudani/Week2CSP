@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Puzzle Game
 description: This is a simple number puzzle (get all 9 lined up)

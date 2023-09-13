@@ -1,6 +1,6 @@
 ---
 toc: false
-comments: false
+comments: true
 hide: true
 layout: post
 type: help

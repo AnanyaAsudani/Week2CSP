@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Factorial Calculator
 description: My version of a factorial calculator. This portrays both an input and output.

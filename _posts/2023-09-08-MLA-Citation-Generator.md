@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: MLA Citation Generator
 description: This is a MLA Citation generator for books

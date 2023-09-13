@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Python Quiz
 description: This is a simple python quiz which shows how to use python correctly.

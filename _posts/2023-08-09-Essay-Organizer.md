@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Essay Organizer
 description: This is a simple tool you can use to organize your essay or to put it together after writing the paragraphs
