@@ -7,6 +7,8 @@ description: This is a simple python quiz which shows how to use python correctl
 type: hacks
 courses: { compsci: {week: 3} }
 ---
+
+``` python
 class Question:
     def __init__(self, text, choices, correct_choice):
         self.text = text
@@ -59,4 +61,32 @@ quiz = Quiz(questions)
 # Start the quiz
 print("Welcome to the General Knowledge Quiz!")
 quiz.play()
+```
 
+    Welcome to the General Knowledge Quiz!
+    What is the capital of France?
+    1. Paris
+    2. London
+    3. Berlin
+    Correct!
+
+    Which planet is known as the Red Planet?
+    1. Mars
+    2. Venus
+    3. Jupiter
+    Incorrect.
+
+    What is the largest mammal on Earth?
+    1. Elephant
+    2. Giraffe
+    3. Blue Whale
+    Incorrect.
+
+    You scored 1/3
+
+<script src="https://utteranc.es/client.js"
+        repo="Week2CSP"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
